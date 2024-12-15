@@ -2,7 +2,7 @@
 // Database credentials
 $servername = "localhost"; // Server name or IP
 $username = "root";        // Database username
-$password = "";            // Database password
+$password = "Mabayag123***";            // Database password
 $database = "ronin";         // Database name
 
 // Create connection
